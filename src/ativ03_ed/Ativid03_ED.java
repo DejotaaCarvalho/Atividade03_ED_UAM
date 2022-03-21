@@ -49,5 +49,9 @@ public class Ativid03_ED {
 		System.out.println("Fila final: "+fila);
 	}
 	
-	
+	/*
+Comentários:
+Os dados são inseridos da lista até a pilha de forma sequencial (FIFO),
+após isso, são inseridos na fila tirando da pilha de forma "Last in, First Out".
+*/
 }
